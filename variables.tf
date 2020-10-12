@@ -1,3 +1,3 @@
-variable aws_region {
+variable region {
   default = "eu-west-1"
 }
